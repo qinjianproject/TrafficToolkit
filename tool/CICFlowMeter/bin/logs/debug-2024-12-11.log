@@ -1,0 +1,92 @@
+2024-12-11 08:21:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:21:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../..
+2024-12-11 08:21:01 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:21:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:21:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../cfm
+2024-12-11 08:21:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:22:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:22:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../cfm
+2024-12-11 08:22:09 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:23:21 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:23:21 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../../cfm
+2024-12-11 08:23:21 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:24:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:24:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../../../../home/smc/cfm
+2024-12-11 08:24:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:31:33 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:31:33 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../..
+2024-12-11 08:31:33 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:59:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 08:59:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../cfm
+2024-12-11 08:59:31 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 08:59:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:27:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:27:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:27:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:27:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:27:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    No such file or directory
+2024-12-11 11:27:07 DEBUG swing.common.SwingUtils    ../csv/tls_baidu.pcap_Flow.csv (No such file or directory)
+2024-12-11 11:37:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:37:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:37:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:37:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:38:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:38:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:38:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:38:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:38:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:38:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:38:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:38:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:39:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:39:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:39:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:39:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:44:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:44:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:44:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:44:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:45:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:45:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:45:01 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:45:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:45:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:45:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:45:15 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:45:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:46:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:46:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:46:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:46:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:46:21 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:46:21 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:46:21 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:46:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:46:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:46:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:46:27 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:46:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:46:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:46:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:46:47 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:46:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:46:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:46:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:46:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:46:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 11:48:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 11:48:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 11:48:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 11:48:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 12:19:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 12:19:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 12:19:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 12:19:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 13:04:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 13:04:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 13:04:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 13:04:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-11 13:05:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-11 13:05:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-11 13:05:11 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-11 13:05:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap

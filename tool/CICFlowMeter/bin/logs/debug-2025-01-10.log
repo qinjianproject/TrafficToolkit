@@ -1,0 +1,4 @@
+2025-01-10 14:50:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2025-01-10 14:50:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2025-01-10 14:50:14 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-01-10 14:50:14 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap

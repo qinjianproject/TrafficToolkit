@@ -1,0 +1,12 @@
+2024-12-18 03:13:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-18 03:13:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-18 03:13:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-18 03:13:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-18 03:14:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-18 03:14:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-18 03:14:31 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-18 03:14:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
+2024-12-18 06:28:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../tls_baidu.pcap
+2024-12-18 06:28:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../csv
+2024-12-18 06:28:14 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-12-18 06:28:14 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../tls_baidu.pcap
